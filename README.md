@@ -1,5 +1,6 @@
 # 💫 About Me:
-Im studying M2 Cybersecurity at IP Paris<br>Im studying K8s, Cilium, eBPF-programming
+🔭 I’m studying M2 Cybersecurity at IP Paris
+🌱 I’m currently learning K8s, Cilium and eBPF
 
 
 # 💻 Tech Stack:
