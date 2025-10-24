@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m studying M2 Cybersecurity at Institut Polytechnique de Paris (Télécom SudParis) </br>  
+🔭 I’m studying M2 Cybersecurity at Institut Polytechnique de Paris (Télécom SudParis) </br>
 🌱 I’m currently learning Kubernetes, Cilium, and eBPF  </br>
 🧩 Interested in low-level networking, systems programming, and security research </br>
 
