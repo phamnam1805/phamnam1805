@@ -5,7 +5,7 @@
 
 # 🚧 Work in Progress
 
-I’m currently adapting examples from the [Eunomia BPF tutorial](https://github.com/eunomia-bpf) (userspace code in C or Rust) to use [cilium/ebpf](https://github.com/cilium/ebpf) in Go.  
+I’m currently adapting examples from the [Eunomia BPF tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) (userspace code in C or Rust) to use [cilium/ebpf](https://github.com/cilium/ebpf) in Go.  
 
 Completed adaptations so far:  
 - [Lesson 11 – Bootstrap](https://github.com/phamnam1805/ebpf-process-monitor)  
