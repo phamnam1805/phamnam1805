@@ -8,7 +8,7 @@
 I’m currently adapting examples from the [Eunomia BPF tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) (userspace code in C or Rust) to use [cilium/ebpf](https://github.com/cilium/ebpf) in Go.  
 
 Completed adaptations so far:  
-- Lesson 11 – Bootstrap(https://github-readme-stats.vercel.app/api/pin/?username=phamnam1805&repo=ebpf-process-monitor&theme=dark)
+- Lesson 11 – Bootstrap
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phamnam1805&repo=ebpf-process-monitor&theme=dark)](https://github.com/phamnam1805/ebpf-process-monitor)
 - [Lesson 11 – Bootstrap](https://github.com/phamnam1805/ebpf-process-monitor)  
 - [Lesson 12 – Profile](https://github.com/phamnam1805/ebpf-profile)
