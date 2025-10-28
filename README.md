@@ -40,7 +40,7 @@ Completed adaptations so far:
 # 📊 GitHub Stats:
 <div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=phamnam1805&theme=dark&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamnam1805&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamnam1805&theme=dark&size_weight=0.5&count_weight=1&langs_count=5" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=phamnam1805&theme=dark" />
 </div>
 
