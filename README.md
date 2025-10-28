@@ -40,13 +40,14 @@ Completed adaptations so far:
 # 📊 GitHub Stats:
 <div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=phamnam1805&theme=dark&show_icons=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=phamnam1805&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamnam1805&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=phamnam1805&theme=dark" />
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=phamnam1805&theme=dark&show_icons=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=phamnam1805&theme=dark&show_icons=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=phamnam1805&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phamnam1805&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=phamnam1805&icon=0&color=0)](https://visitcount.itsvg.in)
