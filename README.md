@@ -38,7 +38,7 @@ Completed adaptations so far:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=phamnam1805&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=phamnam1805&theme=dark)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=phamnam1805&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phamnam1805&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
