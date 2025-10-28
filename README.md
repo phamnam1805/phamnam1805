@@ -10,6 +10,7 @@ I’m currently adapting examples from the [Eunomia BPF tutorial](https://github
 Completed adaptations so far:  
 - [Lesson 11 – Bootstrap](https://github.com/phamnam1805/ebpf-process-monitor)  
 - [Lesson 12 – Profile](https://github.com/phamnam1805/ebpf-profile)
+- [Lesson 13 – Statistics of TCP Connection Delay](https://github.com/phamnam1805/ebpf-tcpconnlat)
 
 
 # 💻 Tech Stack:
