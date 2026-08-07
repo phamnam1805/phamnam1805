@@ -46,9 +46,8 @@ Completed adaptations so far:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-<!--
 # 📊 GitHub Stats:
--->
+![Stats](./profile/stats.svg)
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=phamnam1805&theme=dark&show_icons=true)<br/>
