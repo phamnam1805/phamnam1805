@@ -45,14 +45,9 @@ Completed adaptations so far:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!--
+
 # 📊 GitHub Stats:
-<div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=phamnam1805&theme=dark&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamnam1805&theme=dark&size_weight=0.5&count_weight=1&langs_count=5&layout=compact" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=phamnam1805&theme=dark" />
-</div>
--->
+![Stats](./profile/stats.svg)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=phamnam1805&theme=dark&show_icons=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=phamnam1805&theme=dark)<br/>
